@@ -9,3 +9,5 @@ Key Features:
 * Shortest Path Output: Once the shortest path is determined, the visualizer highlights the path from the start node to the end node, showing the minimum cost.
 
 The project demonstrates the application of Dijkstra's algorithm in finding the shortest path in a weighted graph and provides an intuitive and educational tool for understanding the algorithm’s operation.
+
+Image from sample input:![WhatsApp Image 2024-12-30 at 22 49 15_c49fd610](https://github.com/user-attachments/assets/9b0cc898-5545-445f-bdac-7a686c1bd3fe)
