@@ -2,7 +2,7 @@
 Dijkstra Shortest Path Visualizer (Python)
 This project is a Python-based implementation of Dijkstra’s algorithm, designed to visualize the process of finding the shortest path between two nodes in a graph. The visualizer allows users to input a start node and an end node, and the program dynamically calculates and displays the shortest path from the start to the destination.
 
-Key Features:
+**Key Features:**
 
 * Interactive Graph Input: Users can define the nodes and edges of the graph, including the weights of each edge.
 * Visual Representation: The algorithm’s execution is visually represented step-by-step, with nodes and edges highlighted as the algorithm progresses.
@@ -13,7 +13,7 @@ The project demonstrates the application of Dijkstra's algorithm in finding the 
 Image from sample input:![WhatsApp Image 2024-12-30 at 22 49 15_c49fd610](https://github.com/user-attachments/assets/9b0cc898-5545-445f-bdac-7a686c1bd3fe)
 
 
-Technical Highlights:
+**Technical Highlights:**
 
 Programming Language: Python
 Libraries Used:
@@ -23,7 +23,7 @@ Libraries Used:
 
 Real-Time Feedback: The application updates the graph dynamically as the algorithm progresses, providing visual feedback of the algorithm's steps, including the pathfinding process and shortest path calculation.
 
-To run the file on your local system :
+**To run the file on your local system :**
 Requirements :
 
 * Have a version of python > 3.12.4.
