@@ -22,3 +22,13 @@ Libraries Used:
 * Optimized Node Placement: Predefined node positions ensure a neat, organized, and intuitive layout for the graph, enhancing user experience.
 
 Real-Time Feedback: The application updates the graph dynamically as the algorithm progresses, providing visual feedback of the algorithm's steps, including the pathfinding process and shortest path calculation.
+
+To run the file on your local system :
+Requirements :
+
+* Have a version of python > 3.12.4.
+* Install pygame in the terminal.
+
+Challenges and Solutions
+
+Ensured seamless user interaction by handling edge cases for invalid or incomplete inputs. Enhanced visual clarity with edge and path thickness adjustments, color-coding, and semi-transparent labels. Optimized the algorithm's integration with the graphical interface for real-time updates.
